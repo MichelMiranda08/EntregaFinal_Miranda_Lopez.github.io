@@ -1,0 +1,51 @@
+/* etapas */ 
+.etapa1 {
+    max-width: 5%;
+    overflow: hidden;
+    text-align: right;
+    left: 25%;
+}
+.etapasDesarrollo {
+    font-family: 'Rubik', sans-serif;
+    font-size:25px;
+    color:rgb(87, 66, 205);
+    text-align:-webkit-center;
+}
+.img_etapa1 {
+    /*background-image: url("/assets/images/vector.png");*/
+    width: 50%;
+}
+.img_familia {
+    width: 50%;
+}
+.img_juguemos {
+    width: 50%;
+}
+.espacioJuguemos {
+    padding: 50px;
+}
+
+.etapa{
+    border:none;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: auto; 
+}
+.etapa_uno {
+    background-color: #e692f8;
+    margin: 5%;
+}
+.etapa_dos {
+    background-color: #fefac0;
+    margin: 4%;
+}
+.etapa_tres {
+    background-color: #91e4fb;
+    margin: 3%;
+}
+.etapa_cuatro {
+    background-color: #ffb4b0;
+    margin: 3%;
+}
