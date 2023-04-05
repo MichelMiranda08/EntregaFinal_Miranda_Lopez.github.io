@@ -1,0 +1,59 @@
+/*Index*/
+.bg-propio {
+    background-color: $azulceleste;
+    text-align: center;
+
+}
+
+.font h2 {
+    font-style:oblique !important;
+    font-size: medium !important;
+}
+
+.h2 {
+    font-family: 'Rubik', sans-serif;
+    font-size:50px;
+    color:rgb(87, 66, 205);
+    text-align:-webkit-center;
+}
+.p {
+    font-style: 70px;
+    font-size:18px;
+    color: rgb(87, 66, 205);
+    font-family: sans-serif;
+    text-align: backdrop;
+    margin: 1%;
+ 
+}
+.p {
+    padding: 20px;
+    max-width: 80%;
+    color:rgb(87, 66, 205);
+    font-family: sans-serif;
+}
+
+.ninajugando {
+    max-width: 80%;
+    overflow: hidden;
+    text-align: right;
+    left: 25%;
+    position: relative;
+    left: 40px;
+}
+
+.letters {
+    color: #0a58ca !important;
+    font-family: 'Rubik', sans-serif;
+}
+
+.jugando {
+    display:flex;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 100px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    margin-right: 1px;
+    justify-content: center;
+}
